@@ -1,0 +1,19 @@
+{
+    "name": "hasan/contact",
+    "description": "This will send email to admin and save query in database.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "rabiulhasan3",
+            "email": "rabiul.fci@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Hasan\\Contact\\": "src/"
+        }
+    },
+}
