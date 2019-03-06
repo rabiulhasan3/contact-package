@@ -1,6 +1,6 @@
 <?php
 
-Namespace Hasan\Contact;
+Namespace Rabiulhasan\Contact;
 
 use Illuminate\Support\ServiceProvider;
 

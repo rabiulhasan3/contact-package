@@ -1,11 +1,11 @@
 <?php
 
-namespace Hasan\Contact\Http\Controllers;
+namespace Rabiulhasan\Contact\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
-use Hasan\Contact\Models\Contact;
-use Hasan\Contact\Mail\ContactMailable;
+use Rabiulhasan\Contact\Models\Contact;
+use Rabiulhasan\Contact\Mail\ContactMailable;
 use Illuminate\Support\Facades\Mail;
 
 class ContactController extends Controller
